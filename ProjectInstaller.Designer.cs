@@ -42,7 +42,6 @@
             this.serviceInstaller.Description = "Windows Setup coddling service";
             this.serviceInstaller.DisplayName = "SetupKeeper";
             this.serviceInstaller.ServiceName = "SetupKeeper";
-            this.serviceInstaller.StartType = System.ServiceProcess.ServiceStartMode.Automatic;
             // 
             // ProjectInstaller
             // 
